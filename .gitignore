@@ -1,0 +1,22 @@
+node_modules/
+dist/
+production/*-source.mp4
+production/*-job.json
+production/review/
+test-results/
+delivery/raw/
+delivery/
+.vercel/
+Gojo VS Sukuna Animation*.mp4
+production/previous-version/
+production/*.mp4
+production/*.html
+production/deploy-check/
+public/assets/gojo*.mp4
+public/assets/duel*
+production/*
+!production/storyboard.md
+!production/product-sources.json
+!production/prepare-chapters.mjs
+!production/fetch-products.mjs
+.github/workflows/pages.yml
